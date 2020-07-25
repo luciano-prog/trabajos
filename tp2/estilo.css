@@ -1,0 +1,15 @@
+body{
+    
+    font-family: Calibri;
+	padding: 10px 20px;
+	background-color: rgb(0, 159, 146);
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+}
+
+
